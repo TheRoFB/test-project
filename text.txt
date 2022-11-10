@@ -1,0 +1,6 @@
+this is a test file create in gitbash
+
+I am writing mode
+:wq
+ 
+hello
